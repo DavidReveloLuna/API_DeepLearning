@@ -32,4 +32,9 @@ Implementaremos una red neuronal usando keras-tensorflow y la ejecutaremos en un
 
 ## Resultado
 
-![Aquí la descripción de la imagen por si no carga](https://github.com/DavidReveloLuna/API_DeepLearning/blob/master/asssets/Resultado.jpg)
+![API web Flask + Deep Learning](https://github.com/DavidReveloLuna/API_DeepLearning/blob/master/asssets/Resultado.jpg)
+
+## Agradecimientos
+
+Al trabajo de: 
+[Krishnaik06](https://github.com/krishnaik06/Deployment-Deep-Learning-Model)
