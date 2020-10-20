@@ -21,7 +21,7 @@ names = ['AFRICAN FIREFINCH','ALBATROSS','ALEXANDRINE PARAKEET','AMERICAN AVOCET
          'AMERICAN COOT','AMERICAN GOLDFINCH','AMERICAN KESTREL','AMERICAN PIPIT','AMERICAN REDSTART']
 
 
-modelt = load_model("models/model_RS50.h5")
+modelt = load_model("models/model_VGG16.h5")
 print("Modelo cargado exitosamente")
 
 imaget_path = "ImagenPrueba.jpg"
