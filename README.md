@@ -1,4 +1,6 @@
-"# API_DeepLearning" 
+# API_DeepLearning
+
+Implementaremos una red neuronal usando keras-tensorflow y la ejecutaremos en un servicio web de flask
 
 ## 1. Preparación del entorno
     $ conda create -n APIDeep anaconda python=3.7.7
@@ -30,4 +32,9 @@
 
 ## Resultado
 
-![Aquí la descripción de la imagen por si no carga](https://github.com/DavidReveloLuna/API_DeepLearning/blob/master/asssets/Resultado.jpg)
+![API web Flask + Deep Learning](https://github.com/DavidReveloLuna/API_DeepLearning/blob/master/asssets/Resultado.jpg)
+
+## Agradecimientos
+
+Al trabajo de: 
+[Krishnaik06](https://github.com/krishnaik06/Deployment-Deep-Learning-Model)
