@@ -38,3 +38,6 @@ Implementaremos una red neuronal usando keras-tensorflow y la ejecutaremos en un
 
 Al trabajo de: 
 [Krishnaik06](https://github.com/krishnaik06/Deployment-Deep-Learning-Model)
+
+# **Canal de Youtube**
+[Click aquì pare ver mi canal de YOUTUBE](https://www.youtube.com/channel/UCr_dJOULDvSXMHA1PSHy2rg)
